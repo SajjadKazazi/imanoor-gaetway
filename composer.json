@@ -1,6 +1,6 @@
 {
-  "name": "imanoorgateway",
-  "homepage": "https://github.com/larabook/gateway",
+  "name": "gateway",
+  "homepage": "https://github.com/sajjadkazazi/imanoor-gateway",
   "description": "A Laravel package for connecting to all Iraninan payment  gateways",
   "keywords": [
     "laravel",
